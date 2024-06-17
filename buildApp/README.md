@@ -7,7 +7,6 @@
 ## Start the application
 
 Run `npx nx serve buildApp` to start the development server. Happy coding!
-test
 
 ## Build for production
 
