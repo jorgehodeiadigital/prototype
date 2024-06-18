@@ -11,7 +11,7 @@ Run `npx nx serve buildApp` to start the development server. Happy coding!
 ## Build for production
 
 Run `npx nx build buildApp` to build the application. The build artifacts are stored in the output directory (e.g. `dist/` or `build/`), ready to be deployed.
-t
+test
 
 ## Running tasks
 
